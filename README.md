@@ -15,4 +15,4 @@ RLA: https://www2.ed.gov/about/inits/ed/edfacts/data-files/rla-achievement-sch-s
 Poverty Estimates: https://opendata.arcgis.com/datasets/82561a1eb6914fa1ac7581520b97bd42_0.csv?outSR=%7B%22latestWkid%22%3A4269%2C%22wkid%22%3A4269%7D
 
 Medium Post describing the Project, Analysis and Conclusions:
-
+https://ivan-mihailov.medium.com/correlation-between-2017-2018-georgia-school-performance-on-state-assessments-in-mathematics-and-5b03a46b057a
